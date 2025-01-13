@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:FFFFFF&height=250&section=header&text=Jhynguu's%20GitHub!&fontSize=70&animation=scaleIn&fontAlignY=40&fontColor=)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:FFFFFF&height=250&section=header&text=Jhyngu's%20GitHub!&fontSize=70&animation=scaleIn&fontAlignY=40&fontColor=)
   <div align='center'>
   
   ### 😆About ME😆<br>
